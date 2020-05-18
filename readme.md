@@ -16,6 +16,7 @@ This version also has non greedy movement i.e [0,0,2,4] turns to [0,0,4,4] on pr
 The game is initialised:
 ![Screenshot (54)](https://user-images.githubusercontent.com/64413236/82215196-a1325180-9934-11ea-9f00-913541746312.png)
 
-
+The gameplay is as shown:
+![Screenshot (55)](https://user-images.githubusercontent.com/64413236/82215608-5238ec00-9935-11ea-9979-29ec04eaf1a4.png)
 
 
