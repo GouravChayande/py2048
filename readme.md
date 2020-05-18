@@ -9,7 +9,7 @@ The main obvective was to have a functioning 2048 game which has following featu
 ## Some specifications
 This code has been written in Windows and testing using the Command Promt but the clear function works for both Linux and Windows OS.
 To move the board W A S D keys are used to push in thier respective directions.
-This version also has non greedy movement i.e [0,0,2,4] turns to [0,0,4,4] on pressing D.
+This version also has non greedy movement i.e [0,2,2,4] turns to [0,0,4,4] on pressing D.
 
 ## Images
 
